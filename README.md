@@ -1,4 +1,5 @@
-Hi I'm Lexy Zhu, currently majored in Data Science at NYU.
+## About me: ##
+I'm Lexy Zhu, currently pursuing a Master’s degree in Data Science at New York University. I am passionate about applying Machine Learning and Deep Learning techniques to advance research in cognitive science and biomedical imaging. 
 
-- 👀 I’m interested in Machine Learning and Deep Learning.
-- 📫 You can reach me via email: lexuanzhu8@gmail.com
+## Fun Facts ##
+⛸️ If you're a figure skating enthusiast, I'm happy to exchange some skills with you
